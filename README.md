@@ -1,9 +1,4 @@
 # grpc-learning-lab
-Hands-on, phase-by-phase gRPC learning lab — built from a REST/microservices background. Covers streaming, deadlines, interceptors, auth, schema evolution, and REST-vs-gRPC benchmarking.
-
-
-
-# grpc-learning-lab
 
 Hands-on, phase-by-phase exploration of gRPC — built from first principles by someone coming from a REST/microservices background. Each folder is a standalone, runnable piece covering one concept, progressing from basic unary calls to a small multi-service capstone.
 
