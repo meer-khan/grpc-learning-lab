@@ -1,10 +1,10 @@
 # grpc-learning-lab
 
-Hands-on, phase-by-phase exploration of gRPC — built from first principles by someone coming from a REST/microservices background. Each folder is a standalone, runnable piece covering one concept, progressing from basic unary calls to a small multi-service capstone.
+Hands-on, phase-by-phase exploration of gRPC, built from first principles by someone coming from a REST/microservices background. Each folder is a standalone, runnable piece covering one concept, progressing from basic unary calls to a small multi-service capstone.
 
 ## Why this repo exists
 
-I've built and called plenty of microservices over REST. This repo is me doing the same thing over gRPC, on purpose, concept by concept, so I actually understand the tradeoffs instead of just repeating buzzwords — streaming types, deadlines/cancellation, interceptors, schema evolution, and how gRPC compares to REST in practice (with real benchmark numbers, not guesses).
+I've built and called plenty of microservices over REST. This repo is me doing the same thing over gRPC, on purpose, concept by concept, so I actually understand the tradeoffs instead of just repeating buzzwords, streaming types, deadlines/cancellation, interceptors, schema evolution, and how gRPC compares to REST in practice (with real benchmark numbers, not guesses).
 
 ## Stack
 
@@ -47,4 +47,4 @@ cd <phase-folder>
 
 ## Notes
 
-This is a learning repo, not a production template — some phases intentionally leave rough edges to make a point (e.g. phase 4 deliberately mishandles an error before fixing it).
+This is a learning repo, not a production template, some phases intentionally leave rough edges to make a point.
