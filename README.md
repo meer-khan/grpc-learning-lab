@@ -40,10 +40,10 @@ I've built and called plenty of microservices over REST. This repo is me doing t
 
 ## Running any phase
 
-\`\`\`bash
+``` bash
 cd <phase-folder>
 # proto generation and run instructions are in each phase's own README
-\`\`\`
+```
 
 ## Notes
 
